@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM">
+	<test name="pim">
+		<classes>
+			<class name="webdriverwithjava.OrangeHRMMain"></class>
+		</classes>
+	</test>	
+</suite>

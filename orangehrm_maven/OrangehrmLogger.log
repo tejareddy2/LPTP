@@ -1,0 +1,487 @@
+2018-07-27 10:04:11,375 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 10:04:11,376 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:04:15,119 INFO  [Log] Successfully login into the application 
+2018-07-27 10:04:16,253 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:09:32,947 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 10:09:32,948 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:09:36,502 INFO  [Log] Successfully login into the application 
+2018-07-27 10:09:40,591 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:10:35,782 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 10:10:35,782 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:10:39,195 INFO  [Log] Successfully login into the application 
+2018-07-27 10:10:43,298 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:10:45,885 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 10:10:53,665 INFO  [Log] Successfully saved emploee record 
+2018-07-27 10:10:55,395 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 10:10:57,922 INFO  [Log] Successfully close the browser 
+2018-07-27 10:10:57,922 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 10:10:57,957 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir1736_5237}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 614ddc2067ffd932b9bdd0ecbcff004e
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 10:11:02,764 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 10:11:02,764 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:11:06,042 INFO  [Log] Successfully login into the application 
+2018-07-27 10:11:10,133 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:11:12,762 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 10:11:19,852 INFO  [Log] Successfully saved emploee record 
+2018-07-27 10:11:21,604 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 10:11:26,224 INFO  [Log] Successfully close the browser 
+2018-07-27 10:11:26,224 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 10:11:26,257 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5804_28810}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: e0561814f4ec60aad1d0142044dfd9d3
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 10:11:31,154 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 10:11:31,154 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:11:34,782 INFO  [Log] Successfully login into the application 
+2018-07-27 10:11:38,812 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:11:41,379 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 10:11:47,141 INFO  [Log] Successfully saved emploee record 
+2018-07-27 10:11:49,905 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 10:11:54,455 INFO  [Log] Successfully close the browser 
+2018-07-27 10:11:54,455 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 10:11:54,486 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5396_9220}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b92e29f3e1025ef0987736be5c7292f9
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 10:11:59,355 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 10:11:59,355 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:12:02,650 INFO  [Log] Successfully login into the application 
+2018-07-27 10:12:06,685 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:12:09,231 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 10:12:15,052 INFO  [Log] Successfully saved emploee record 
+2018-07-27 10:12:17,816 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 10:12:22,044 INFO  [Log] Successfully close the browser 
+2018-07-27 10:12:22,044 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 10:12:22,075 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5984_10100}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 7582c05dd56ff9c0c751adbb53e17a4e
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 10:59:26,906 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 10:59:26,907 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:59:30,292 INFO  [Log] Successfully login into the application 
+2018-07-27 10:59:34,380 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 10:59:37,027 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 10:59:41,728 INFO  [Log] Successfully saved emploee record 
+2018-07-27 10:59:45,689 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 10:59:50,604 INFO  [Log] Successfully close the browser 
+2018-07-27 10:59:50,604 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 10:59:50,635 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir4484_9367}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ddfb5f35368e8085f854c11f5683da28
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 10:59:55,602 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 10:59:55,602 INFO  [Log] Successfully lauch the application 
+2018-07-27 10:59:58,961 INFO  [Log] Successfully login into the application 
+2018-07-27 11:00:03,052 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:00:05,640 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:00:10,344 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:00:14,719 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:00:17,462 INFO  [Log] Successfully close the browser 
+2018-07-27 11:00:17,462 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:00:17,509 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir1232_30053}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 6924fe816422ccc4bf5644630718e8cc
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:00:22,366 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 11:00:22,366 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:00:25,644 INFO  [Log] Successfully login into the application 
+2018-07-27 11:00:29,708 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:00:32,269 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:00:39,420 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:00:41,155 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:00:43,533 INFO  [Log] Successfully close the browser 
+2018-07-27 11:00:43,533 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:00:43,580 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir4088_4902}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 63acb82487532abc49cebea37f8a492e
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:00:48,424 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 11:00:48,425 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:00:51,738 INFO  [Log] Successfully login into the application 
+2018-07-27 11:00:55,870 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:00:58,472 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:01:04,226 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:01:07,029 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:01:09,373 INFO  [Log] Successfully close the browser 
+2018-07-27 11:01:09,373 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:01:09,420 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5008_9162}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 41dc9356cd0d2f1ba3bd6528e11e0077
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:05:01,597 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 11:05:01,598 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:05:04,924 INFO  [Log] Successfully login into the application 
+2018-07-27 11:05:08,994 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:05:11,555 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:05:18,556 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:05:20,326 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:05:25,334 INFO  [Log] Successfully close the browser 
+2018-07-27 11:05:25,334 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:05:25,381 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir6068_28489}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 4fde40ea795cf0927cfcaa2ec315603c
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:05:30,289 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 11:05:30,289 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:05:33,576 INFO  [Log] Successfully login into the application 
+2018-07-27 11:05:37,672 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:05:40,266 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:05:44,970 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:05:48,886 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:05:51,559 INFO  [Log] Successfully close the browser 
+2018-07-27 11:05:51,559 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:05:51,605 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5028_18492}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b5c55dcd231a6d1d68d7136e2323016c
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:05:56,499 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-27 11:05:56,499 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:05:59,801 INFO  [Log] Successfully login into the application 
+2018-07-27 11:06:03,876 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:06:06,461 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:06:11,130 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:06:15,053 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:06:17,451 INFO  [Log] Successfully close the browser 
+2018-07-27 11:06:17,451 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:06:17,654 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 203 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5456_3095}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2d7e4f3186f21f0ed8ae93ff5c35aa29
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-27 11:06:22,853 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-27 11:06:22,854 INFO  [Log] Successfully lauch the application 
+2018-07-27 11:06:26,141 INFO  [Log] Successfully login into the application 
+2018-07-27 11:06:30,232 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-27 11:06:32,781 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-27 11:06:37,432 INFO  [Log] Successfully saved emploee record 
+2018-07-27 11:06:41,379 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-27 11:06:45,584 INFO  [Log] Successfully close the browser 
+2018-07-27 11:06:45,584 INFO  [Log] #####################End TestCase###################################### 
+2018-07-27 11:06:45,616 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '169.254.125.58', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir2816_12075}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 7f7f0ad5e19ac562e659279e7dcef70b
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:50:26,578 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 09:50:26,578 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:50:30,500 INFO  [Log] Successfully login into the application 
+2018-07-28 09:50:35,064 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:50:38,091 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:50:45,179 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:50:48,157 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:50:51,291 INFO  [Log] Successfully close the browser 
+2018-07-28 09:50:51,292 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:50:51,361 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir4384_2468}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: cd371fbbc445d2bd86915d452593dbd1
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:50:56,502 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 09:50:56,502 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:51:00,209 INFO  [Log] Successfully login into the application 
+2018-07-28 09:51:04,460 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:51:07,108 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:51:13,088 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:51:15,826 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:51:18,499 INFO  [Log] Successfully close the browser 
+2018-07-28 09:51:18,499 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:51:18,527 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5640_22014}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 720b532ef8ac970acd30b1406c3429e2
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:51:23,544 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 09:51:23,544 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:51:26,983 INFO  [Log] Successfully login into the application 
+2018-07-28 09:51:31,267 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:51:33,995 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:51:40,206 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:51:43,068 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:51:45,564 INFO  [Log] Successfully close the browser 
+2018-07-28 09:51:45,564 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:51:45,608 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5340_17553}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: db1a2d88540744eaba9932304c0e1711
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:51:50,547 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 09:51:50,548 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:51:54,040 INFO  [Log] Successfully login into the application 
+2018-07-28 09:51:58,169 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:52:00,874 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:52:06,860 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:52:09,670 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:52:12,086 INFO  [Log] Successfully close the browser 
+2018-07-28 09:52:12,086 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:52:12,120 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5328_4932}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 95d013a61661347a95e9d96915b88999
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:55:16,161 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 09:55:16,161 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:55:19,594 INFO  [Log] Successfully login into the application 
+2018-07-28 09:55:24,038 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:55:26,718 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:55:34,026 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:55:36,001 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:55:40,787 INFO  [Log] Successfully close the browser 
+2018-07-28 09:55:40,788 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:55:40,829 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir4944_7134}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 31ec85a2445dd773d413c70ddd68b46b
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 09:55:45,785 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 09:55:45,786 INFO  [Log] Successfully lauch the application 
+2018-07-28 09:55:49,323 INFO  [Log] Successfully login into the application 
+2018-07-28 09:55:53,626 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 09:55:56,485 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 09:56:01,227 INFO  [Log] Successfully saved emploee record 
+2018-07-28 09:56:05,229 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 09:56:10,266 INFO  [Log] Successfully close the browser 
+2018-07-28 09:56:10,266 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 09:56:10,292 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir3376_21381}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 3c3d08f7aea03afd94ff8e10874280a8
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:03:29,780 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 10:03:29,780 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:03:30,187 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 10:03:30,187 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:03:33,299 INFO  [Log] Successfully login into the application 
+2018-07-28 10:03:33,671 INFO  [Log] Successfully login into the application 
+2018-07-28 10:03:37,463 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:03:37,882 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:03:40,097 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:03:40,616 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:03:43,727 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:03:45,521 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:03:46,142 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:03:48,334 INFO  [Log] Successfully close the browser 
+2018-07-28 10:03:48,334 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:03:48,375 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5376_20041}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bb48b98253ba96dd9c2e97df6f6baa39
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:03:49,035 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:03:53,677 INFO  [Log] Successfully close the browser 
+2018-07-28 10:03:53,677 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:03:53,712 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir1892_8470}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ba8df44be0a2d378d5fca860a2c2f614
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:03:58,534 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:03:58,534 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:03:59,964 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:03:59,965 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:04:02,035 INFO  [Log] Successfully login into the application 
+2018-07-28 10:04:03,408 INFO  [Log] Successfully login into the application 
+2018-07-28 10:04:06,214 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:04:07,584 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:04:08,893 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:04:10,208 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:04:13,318 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:04:13,536 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:04:15,145 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:04:17,712 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:04:19,505 INFO  [Log] Successfully close the browser 
+2018-07-28 10:04:19,506 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:04:19,526 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5924_28626}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 70b928dbdc624ec22e602ecdb314456b
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:04:21,932 INFO  [Log] Successfully close the browser 
+2018-07-28 10:04:21,932 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:04:21,968 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5348_11620}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 60d9f3774818c69af6270159ba7d0c59
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:05:36,631 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:05:36,632 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:05:37,936 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 10:05:37,937 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:05:39,721 INFO  [Log] Successfully login into the application 
+2018-07-28 10:05:39,752 ERROR [Log] Failed to Login stale element reference: element is not attached to the page document
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.54 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5200_10400}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: b1d41a44aaca21d8fabf47ed07d5205a 
+2018-07-28 10:06:14,687 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:06:14,688 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:12:53,319 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 10:12:53,320 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:12:56,443 INFO  [Log] #####################verifyAddEmployee###################################### 
+2018-07-28 10:12:56,443 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:12:57,815 INFO  [Log] Successfully login into the application 
+2018-07-28 10:13:00,955 INFO  [Log] Successfully login into the application 
+2018-07-28 10:13:01,847 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:13:04,445 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:13:05,159 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:13:07,860 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:13:12,035 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:13:12,620 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:13:13,906 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:13:16,740 INFO  [Log] Successfully close the browser 
+2018-07-28 10:13:16,740 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:13:16,835 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:13:16,871 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 124 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir4172_11159}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 6b324300c21e25959fe65dc11630da98
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:13:20,645 INFO  [Log] Successfully close the browser 
+2018-07-28 10:13:20,645 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:13:22,491 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:13:22,492 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:13:24,812 ERROR [Log] Failed to Logout Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: eea6ded8-dc19-48f0-8abe-cf90d472b270 
+2018-07-28 10:13:26,664 INFO  [Log] Successfully login into the application 
+2018-07-28 10:13:30,250 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:13:31,708 INFO  [Log] #####################verifyAddEmployee1###################################### 
+2018-07-28 10:13:31,708 INFO  [Log] Successfully lauch the application 
+2018-07-28 10:13:32,899 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:13:35,689 INFO  [Log] Successfully login into the application 
+2018-07-28 10:13:38,852 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:13:39,993 INFO  [Log] Successfully navigated to PIM Page 
+2018-07-28 10:13:41,672 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:13:42,782 INFO  [Log] Successfully navigated to addEmployee Page 
+2018-07-28 10:13:46,151 INFO  [Log] Successfully close the browser 
+2018-07-28 10:13:46,151 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:13:46,175 ERROR [Log] Failed to Logout no such session
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb), userDataDir=C:\Users\user\AppData\Local\Temp\scoped_dir5344_12869}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=67.0.3396.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: ed30324a27fa278c8acf893b494d667c
+*** Element info: {Using=partial link text, value=Welcome} 
+2018-07-28 10:13:47,669 INFO  [Log] Successfully saved emploee record 
+2018-07-28 10:13:51,686 INFO  [Log] Successfully navigated to Employee List Page 
+2018-07-28 10:13:54,942 INFO  [Log] Successfully close the browser 
+2018-07-28 10:13:54,942 INFO  [Log] #####################End TestCase###################################### 
+2018-07-28 10:13:59,018 ERROR [Log] Failed to Logout Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'user-PC', ip: '192.168.0.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_77'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c03124e-ed34-4ebb-93f0-b30174a08cb9 

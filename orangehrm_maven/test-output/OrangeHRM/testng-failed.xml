@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OrangeHRM]" parallel="tests">
+  <parameter name="browserName" value="firefox"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="pim">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.orangehrm.tests.AddEmployeeTest"/>
+    </classes>
+  </test> <!-- pim -->
+  <test name="Admin">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.orangehrm.tests.AddEmployeeTest"/>
+    </classes>
+  </test> <!-- Admin -->
+  <test name="pim(failed)" parallel="tests">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.orangehrm.tests.AddEmployeeTest">
+        <methods>
+          <include name="verifyAddEmployee1"/>
+          <include name="initialize"/>
+          <include name="verifyAddEmployee"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="logout"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="logout"/>
+          <include name="openApp"/>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- com.orangehrm.tests.AddEmployeeTest -->
+    </classes>
+  </test> <!-- pim(failed) -->
+  <test name="Admin(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.orangehrm.tests.AddEmployeeTest">
+        <methods>
+          <include name="verifyAddEmployee1"/>
+          <include name="initialize"/>
+          <include name="verifyAddEmployee"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="logout"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="logout"/>
+          <include name="openApp"/>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- com.orangehrm.tests.AddEmployeeTest -->
+    </classes>
+  </test> <!-- Admin(failed) -->
+</suite> <!-- Failed suite [OrangeHRM] -->

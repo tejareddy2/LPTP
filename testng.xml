@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM">
+	<test name="admin">
+		<classes>
+			<class name="testng.SecondTestNG"></class>
+			<class name="testng.FirstTestNG">			
+			</class>
+		</classes>
+	</test>
+	<test name="admin1">
+		<classes>
+			<class name="testng.FirstTestNG">
+			</class>
+		</classes>
+	</test>
+	<test name="admin2">
+		<classes>
+			<class name="testng.FirstTestNG">
+			</class>
+		</classes>
+	</test>
+</suite>
+

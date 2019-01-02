@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM" parallel="tests" thread-count="5">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test name="pim">
+	<parameter name="browserName" value="chrome"></parameter>
+		<classes>
+			<class name="com.orangehrm.tests.AddEmployeeTest"></class>
+		</classes>
+	</test>
+	
+	<test name="Admin">
+	<parameter name="browserName" value="firefox"></parameter>
+		<classes>
+			<class name="com.orangehrm.tests.AddEmployeeTest"></class>
+		</classes>
+	</test>
+	
+</suite>
